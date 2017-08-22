@@ -11,9 +11,6 @@
 	<name>demo01 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
-	<dependencies>
-	</dependencies>
-
 	<build>
 		<finalName>demo01</finalName>
 	</build>
